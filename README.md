@@ -1,4 +1,3 @@
-#SpringAnnotationExample
+#SpringSampleApplication
 
-
-Sample Application to demonstrate Spring Annotation usages
+Sample Starter Application
